@@ -7,7 +7,7 @@ Speaks English, French and some Italian.
 ## Experience
 ### Full-Stack Engineer - Galerie Perrotin, Paris -  May 2024 - Present
 - In charge of designing, developing and maintaining an API for a legacy MYSQL database, protected by JWT authentication and managing roles and permissions for resources access. Front end panel for managing consumers, roles and their permissions. API documentation, rate limiting, and testing. (Laravel 11, PHPUnit, Vue 3)
-- Brought a unit testing culture within the team, implementing it suites on X projects, and brought the code coverage of these projects to at least X%, with **PHPUNIT**, and leveraged testing on a legacy codebase.
+- Brought a unit testing culture within the team, implementing test suites on 3 projects, with **PHPUNIT**, and leveraged testing on a legacy codebase.
 - Implemented Vue UI library to enable designers and front end devs to create an efficient and reusable design system (Vue3, PrimeVue4)
 - Mentored the team to move towards the use of typescript on our VueJS apps.
 
